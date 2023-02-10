@@ -1,8 +1,6 @@
 import pyautogui as pt
 import csv
 from time import sleep
-import pyperclip
-import random
 sleep(3)   # Delay time given to open whatsapp app
 
 def addpeople():
